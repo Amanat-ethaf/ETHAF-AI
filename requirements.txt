@@ -1,5 +1,0 @@
-ethaf_ai.py
-index.html
-style.css
-app.js
-requirements.txt
